@@ -1,6 +1,6 @@
 Kahoot Auto Answer Script - User Guide
 
-Welcome to the Kahoot Auto Answer Script! This tool will help you answer Kahoot questions with the assistance of GPT-4. To get started and use the latest version of the script, follow the instructions below:
+Welcome to the Kahoot Auto Answer Script! This tool will help you answer live Kahoot questions with the assistance of GPT-4. To get started and use the latest version of the script, follow the instructions below:
 
 Download the Script
 Download the latest version of the Kahoot Auto Answer script from the provided link. It will be in the form of a .exe file, making it easy to run on Windows.
